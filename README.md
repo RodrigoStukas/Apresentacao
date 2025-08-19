@@ -24,7 +24,7 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces modernas e aprender no
 
 ## 📂 Projetos
 - [Portfólio Front-End](https://github.com/RodrigoStukas/portfolio-front-end-rodrigo)  
-- [Projeto DevLinks](https://github.com/RodrigoStukas/Projeto-Rodrigo)
+- [Projeto DevLinks](https://github.com/RodrigoStukas/ProjetoRodrigo)
 
 ---
 
