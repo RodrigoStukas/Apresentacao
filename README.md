@@ -30,6 +30,7 @@ Desenvolvedor **Full Stack** em formação | Criando soluções completas com fo
 
 ### Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas & Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,7 +41,7 @@ Desenvolvedor **Full Stack** em formação | Criando soluções completas com fo
 
 ## 📂 Projetos em Destaque
 - 🏦 **Banking API (.NET)**  
-  API REST desenvolvida em **ASP.NET Core**, com **Entity Framework**, **SQLite** e **Swagger**  
+  API REST desenvolvida em **ASP.NET Core**, com **Entity Framework**, **SQLite/MySQL** e **Swagger**  
   🔗 https://github.com/RodrigoStukas/banking-api-dotnet
 
 - 🌐 **Portfólio Front-End**  
